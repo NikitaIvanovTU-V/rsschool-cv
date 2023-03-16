@@ -29,9 +29,10 @@ let getVowelCount=function (str) //return vowel count in a string
     return count;
 }
 ```
+
 ## Education ##
-* **University**: Technical University of Varna, Computer Science Sophomore 
+   * **University**: Technical University of Varna, Computer Science Sophomore 
 
 ## English ##
-**C2** 
+*   **C2** 
 
